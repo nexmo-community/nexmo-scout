@@ -6,7 +6,7 @@ chardet==3.0.4
 Click==7.0
 cryptography==3.2
 firebase-admin==3.2.1
-Flask==1.1.1
+Flask==2.2.5
 Flask-Cors==3.0.8
 google-api-core==1.16.0
 google-api-python-client==1.7.11
