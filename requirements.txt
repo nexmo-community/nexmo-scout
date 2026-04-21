@@ -31,7 +31,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.19
 PyJWT==1.7.1
-python-dotenv==0.10.5
+python-dotenv==1.2.2
 pytz==2019.3
 requests==2.22.0
 rsa==4.0
