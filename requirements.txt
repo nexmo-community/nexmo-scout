@@ -24,7 +24,7 @@ idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
-msgpack==0.6.2
+msgpack==1.2.1
 nexmo==2.4.0
 protobuf==3.11.2
 pyasn1==0.4.8
